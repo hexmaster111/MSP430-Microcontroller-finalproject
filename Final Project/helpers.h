@@ -2,7 +2,7 @@
  * helpers.h
  *
  *  Created on: Dec 2, 2021
- *      Author: Hailey Gruszynski
+ *      Author: 5050
  */
 
 #ifndef HELPERS_H_
